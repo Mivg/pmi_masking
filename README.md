@@ -19,10 +19,6 @@ If using the code here, please cite both the above paper and the original PMI pa
 ```
 
 ```bibtex
-BibTex
-MLA
-APA
-Chicago
 @article{Levine2021PMIMaskingPM,
   title={PMI-Masking: Principled masking of correlated spans},
   author={Yoav Levine and Barak Lenz and Opher Lieber and Omri Abend and Kevin Leyton-Brown and Moshe Tennenholtz and Yoav Shoham},
