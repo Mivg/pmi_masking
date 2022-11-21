@@ -1,5 +1,6 @@
 # pmi_masking
 This repository provides an implementation for the [PMI Masking (Levine et al., 2020)](https://arxiv.org/abs/2010.01825)
+It uses the files from [AI21Labs/pmi-masking](https://github.com/AI21Labs/pmi-masking) repository.
 
 ## Citation
 The code in this repository was written for the paper 
